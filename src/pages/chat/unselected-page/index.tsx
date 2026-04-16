@@ -25,7 +25,7 @@ export default function UnSelectedChatPage() {
         <Text>
           <span>Built by</span>{" "}
           <Link target="_blank" href="https://github.com/jazimabbas">
-             Ait zaz Hassan
+             Aitzaz Hassan
           </Link>
           <IconWrapper>
             <Icon id="heart" />
