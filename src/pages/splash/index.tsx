@@ -26,7 +26,7 @@ export default function SplashPage(props: SplashPageProps) {
       <SubTitle>
         <EncryptionIcon id="lock" /> End-to-end encrypted. Built by{" "}
         <Link href="" target="_blank">
-        HassanQasim
+         Aitzaz Hassan
         </Link>{" "}
         ❤️.
       </SubTitle>
